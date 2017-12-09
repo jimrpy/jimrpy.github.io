@@ -16,7 +16,7 @@ Email:lijinming#cahec.cn jimrpy#gmail.com
 
 ## Career Objective 职业目标
 
-Based on the data collection, data mining, risk modling and other modern computer techniques, conduct surveillance, risk analysis and integrated prevention and control technology research on transboundary animal diseases, especially on foreign animal diseases。
+Based on the data collection, data mining, risk modling and other modern computer techniques, conduct surveillance, risk analysis and integrated prevention and control technology research on transboundary animal diseases, especially on foreign animal diseases
 
 利用数据获取、数据挖掘、风险建模等手段，开展跨境动物疫病，特别是外来型跨境动物疫病监测、风险分析与综合防控技术研究
 
@@ -44,7 +44,7 @@ SubProject of National Project for Prevention and control of Transboundary Anima
 
 ## Contribution 业绩贡献
 
-As one of the main drafters, submitted MOA lots of policy documents on the prevention and control of animal diseases.作为主要起草人之一，起草了一系列关于动物疫病防控的农业部文件，公开印发的文件如下：
+As one of the main drafters, submitted MOA lots of policy documents on the prevention and control of animal diseases. 作为主要起草人之一，起草了一系列关于动物疫病防控的农业部文件，其中公开印发的文件如下：
 
 * For H7N9 infuluenza, H7N9流感方面：
 
@@ -69,12 +69,12 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
 
 * Data Analysis 数据分析
 
-  * R
-    
-  * Arcgis
-    
-  * Python
-    
+  * R 
+    
+  * Arcgis
+    
+  * Python 
+    
   * Tableau
  
 * Biosafety 生物安全
@@ -93,7 +93,7 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
 
 * [Atlas of transboundary animal diseases 跨境动物疫病图谱](https://www.amazon.cn/图书/dp/B072BW3NPY) 邓明义，王志亮 主译，农业部出版社，2016.12，ISBN: 9787109224537，Co-Translator 参译
 
-* [Foreign Animal Diseases 外来动物疫病](https://www.amazon.cn/dp/B01CHRTA9K/) 王志亮 主译， 邓明义（Ming Yi Deng）主校，中国农业出版社，2015.10, ISBN 978-7-109-18571-5,Associate Master Translator 副主译
+* [Foreign Animal Diseases 外来动物疫病](https://www.amazon.cn/dp/B01CHRTA9K/) 王志亮 主译， 邓明义（Ming Yi Deng）主校，中国农业出版社，2015.10, ISBN 978-7-109-18571-5，Associate Master Translator 副主译
 
 * [Veterinary Epidemiology Research 兽医流行病学研究](https://www.amazon.cn/dp/B01M1J39AW) 刘秀梵，吴艳涛，宗序平 主译，中国农业出版社，2012.7, ISBN 7109158578, Co-Translator 参译
 
@@ -103,19 +103,19 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
 
 * [中国消灭马鼻疽60年](https://www.amazon.cn/dp/B01CDQCW1S/)农业部兽医局，中国动物疫病预防控制中心主编，中国农业科学技术出版社，2015.12， ISBN 9787511623645，Co-Author 参编
 
-* [非洲猪瘟](https://www.amazon.cn/动物疫病防控出版工程-非洲猪瘟-王志亮/dp/B01CHRTM6Q/) 王志亮，吴晓东，王君玮 主编， 中国农业出版社，2015.10, ISBN 978-7-109-20909-1，Associate Editor 副主编
+* [非洲猪瘟](https://www.amazon.cn/动物疫病防控出版工程-非洲猪瘟-王志亮/dp/B01CHRTM6Q/) 王志亮，吴晓东，王君玮 主编，中国农业出版社，2015.10, ISBN 978-7-109-20909-1，Associate Editor 副主编
 
-* [小反刍兽疫](https://www.amazon.cn/dp/B01CHRU7JC) 王志亮，吴晓东，包静月 主编，中国农业出版社，2015.10， ISBN 978-7-109-20760-8，Associate Editor 副主编
+* [小反刍兽疫](https://www.amazon.cn/dp/B01CHRU7JC) 王志亮，吴晓东，包静月 主编，中国农业出版社，2015.10，ISBN 978-7-109-20760-8，Associate Editor 副主编
 
-* [新城疫](https://www.amazon.cn/新城疫-Newcastle-Disease-刘秀梵/dp/B01ASKUX08/) 刘秀梵，王志亮 主编，中国农业出版社，2015.9， ISBN 978-7-109-20663-2，Co-Author 参编
+* [新城疫](https://www.amazon.cn/新城疫-Newcastle-Disease-刘秀梵/dp/B01ASKUX08/) 刘秀梵，王志亮 主编，中国农业出版社，2015.9，ISBN 978-7-109-20663-2，Co-Author 参编
 
 * [中国动物本草](https://www.amazon.cn/dp/B00LAOKXU2/) 吴德峰，陈佳铭 主编，上海科学技术出版社，2014.7， ISBN: 9787547821770，Co-Author 参编
 
-* [新城疫](https://www.amazon.cn/dp/B00CE5LRC4/) 王志亮，刘华雷 主编，中国农业出版社，2012.12， ISBN 9787109173828，Co-Author 参编
+* [新城疫](https://www.amazon.cn/dp/B00CE5LRC4/) 王志亮，刘华雷 主编，中国农业出版社，2012.12，ISBN 9787109173828，Co-Author 参编
 
-* [重大外来动物疫病防控知识手册](https://www.amazon.cn/dp/B01NC2Z7HM/) 王志亮 主编，中国农业出版社，2012.4， ISBN 7109166562， Co-Author 参编
+* [重大外来动物疫病防控知识手册](https://www.amazon.cn/dp/B01NC2Z7HM/) 王志亮 主编，中国农业出版社，2012.4，ISBN 7109166562， Co-Author 参编
 
-* [非洲猪瘟](https://www.amazon.cn/dp/B004PLMOU4) 王君玮，王志亮 主编，中国农业出版社，2010.11， ISBN 7109148327， Co-Author 参编
+* [非洲猪瘟](https://www.amazon.cn/dp/B004PLMOU4) 王君玮，王志亮 主编，中国农业出版社，2010.11， ISBN 7109148327，Co-Author 参编
 
 * [生物安全实验室兽医病原微生物操作技术规范](https://www.amazon.cn/dp/B00336G1FG/) 王君玮，王志亮 主编，中国农业出版社，2009.11，ISBN 9787109135970，Co-Author 参编
 
@@ -146,4 +146,4 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
 *1111/j.1365-2052.2007.01633.x, Lan, Z., Z. Wang, L. Li, J. Li, and Y. Liu, co-author
 *	[A preliminary panorama of the diversity of N1 subtype influenza viruses](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17019634). Virus Genes, 2007. 35(1): p. 33-40. http://www.doi.org/10.1007/s11262-006-0025-4, Chen, J.M., H.C. Ma, J.W. Chen, Y.X. Sun, J.M. Li, and Z.L. Wang, co-author
 
-ps:the doi website maybe not work
+ps: the doi website maybe not work
