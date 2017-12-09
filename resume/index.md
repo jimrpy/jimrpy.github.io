@@ -4,6 +4,8 @@
 
 Jinming LI 李金明    Associate Pro 副研究员  Email:lijinming#cahec.cn jimrpy#gmail.com 
 
+Core member of National Innovation Teams in Selected Areas of Priority - Major Foreign Animal Diseases Innovative Research Team 国家重点领域创新团队 - 重大外来动物疫病研究创新团队核心成员
+
 No. 369 Nanjing Road, Qingdao, Shandong, China  中国山东省青岛市南京路369号
 
 China Animal Health and Epidemiology Center  中国动物卫生与流行病学中心
