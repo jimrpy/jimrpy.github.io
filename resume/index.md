@@ -1,18 +1,10 @@
 # RESUME 个人简历
 
-Jinming LI 李金明
+Jinming LI 李金明    Associate Pro 副研究员  Email:lijinming#cahec.cn jimrpy#gmail.com 
 
-Associate Pro 副研究员
+No. 369 Nanjing Road, Qingdao, Shandong, China  中国山东省青岛市南京路369号
 
-No. 369 Nanjing Road, Qingdao, Shandong, China
-
-中国山东省青岛市南京路369号
-
-China Animal Health and Epidemiology Center
-
-中国动物卫生与流行病学中心
-
-Email:lijinming#cahec.cn jimrpy#gmail.com 
+China Animal Health and Epidemiology Center  中国动物卫生与流行病学中心
 
 ## Career Objective 职业目标
 
@@ -22,9 +14,7 @@ Based on the data collection, data mining, risk modling and other modern compute
 
 ## Research Project 在研项目
 
-SubProject of National Project for Prevention and control of Transboundary Animal Diseases(2017YFD0501806, 2017-2020),the National Key R&D Program for the 13th Five-Year Plan, the Ministy of Science and Technology, China 
-
-国家十三五计划重点研发专项边境地区外来动物疫病阻断及防控体系研究子项目（课题编号2017YFD0501806）
+SubProject of National Project for Prevention and control of Transboundary Animal Diseases(2017YFD0501806, 2017-2020),the National Key R&D Program for the 13th Five-Year Plan, the Ministy of Science and Technology, China 国家十三五计划重点研发专项边境地区外来动物疫病阻断及防控体系研究子项目（课题编号2017YFD0501806）
 
 ## Education 教育背景
 
