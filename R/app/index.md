@@ -1,1 +1,4 @@
-<script src="https://gist.github.com/jimrpy/db1b1f60a3c07625c335b60e7fe62585.js"></script>
+<iframe id="example1" src="https://jimrpy.shinyapps.io/shiny>"
+style="border: non; width: 100%; height: 500px"
+frameborder="0">
+</iframe>
