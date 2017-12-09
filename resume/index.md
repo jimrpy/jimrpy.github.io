@@ -26,7 +26,6 @@ SubProject of National Project for Prevention and control of Transboundary Anima
 
 国家十三五计划重点研发专项边境地区外来动物疫病阻断及防控体系研究子项目（课题编号2017YFD0501806）
 
-
 ## Education 教育背景
 
 * 2017.10 - 2018.01  EpiCenter,Massey University  梅西大学兽医学院流行病学中心
@@ -58,21 +57,26 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
 * For African swine fever, 非洲猪瘟方面
 
   * [非洲猪瘟防治技术规范(农医发〔2015〕31号)](http://www.moa.gov.cn/sjzz/syj/dwybfk/201511/P020151125628261658854.ceb)
-
+  
   * [非洲猪瘟防控应急预案(农医发〔2017〕28号)](http://www.moa.gov.cn/zwllm/tzgg/tz/201709/t20170926_5828103.htm)
-
+  
   * [关于加强非洲猪瘟防范工作的紧急通知(农办医〔2017〕14号)](http://www.moa.gov.cn/govpublic/SYJ/201704/t20170412_5557878.htm)
 
 * For BSE，疯牛病方面，
-
   * [国家疯牛病风险防范指导意见(农医发〔2017〕21号)](http://www.moa.gov.cn/zwllm/ghjh/201706/t20170616_5691498.htm)
 
 ## Key Skills 主要技能
 
 * Data Analysis 数据分析
 
-  R, Python, Tableau, Arcgis
-
+  * R
+    
+  * Arcgis
+    
+  * Python
+    
+  * Tableau
+ 
 * Biosafety 生物安全
   
   SOP, systemic controll
@@ -80,7 +84,6 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
 * Chinese traditional veterinary 中草药
 
   Chinese medicine herbs
-
 
 ## Publications 论文发表
 
@@ -122,23 +125,23 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
 
 ### papers
 
-*	[Peste des petits ruminants in China since its first outbreak in 2007: A 10-year review](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1865-1682)，Transboundary and Emerging Diseases， *accepted(TBED-RW-451-17)* 2nd author
-*	[Diagnosis of Peste des Petits Ruminants in Wild and Domestic Animals in Xinjiang, China, 2013-2016](http://www.ncbi.nlm.nih.gov/pubmed/28101989). Transbound Emerg Dis, 2017.10.1111/tbed.12600, Li, J., L. Li, X. Wu, F. Liu, Y. Zou, Q. Wang, C. Liu, J. Bao, W. Wang, W. Ma, H. Lin, J. Huang, X. Zheng, and Z. Wang, 1st author
-*	[Evolutionary dynamics of recent peste des petits ruminants virus epidemic in China during 2013-2014](https://www.ncbi.nlm.nih.gov/pubmed/28734191). Virology, 2017. 510: p. 156-164.10.1016/j.virol.2017.07.018, Bao, J., Q. Wang, L. Li, C. Liu, Z. Zhang, J. Li, S. Wang, X. Wu, and Z. Wang, co-auther
-*	[Peste des Petits Ruminants Viruses Re-emerging in China, 2013-2014](http://www.ncbi.nlm.nih.gov/pubmed/25620455). Transbound Emerg Dis, 2016. 63(5): p. e441-6.10.1111/tbed.12308, Wu, X., L. Li, J. Li, C. Liu, Q. Wang, J.Y. Bao, Y. Zou, W. Ren, H. Wang, Y. Zhang, Y. Lv, F. Liu, S. Wang, H. Ma, and Z. Wang, 1st auther
-*	[Allelic variants of PRNP in 16 Chinese local sheep breeds](http://www.ncbi.nlm.nih.gov/pubmed/24643335). Arch Virol, 2014.10.1007/s00705-014-2048-9, Lan, Z., J. Li, C. Sun, Y. Liu, Y. Zhao, T. Chi, X. Yu, F. Song, and Z. Wang, 2nd auther
-*	[Virus excretion and antibody dynamics in goats inoculated with a field isolate of peste des petits ruminants virus](http://www.ncbi.nlm.nih.gov/pubmed/24589103). Transbound Emerg Dis, 2013. 60 Suppl 2: p. 63-8.10.1111/tbed.12136, Liu, W., X. Wu, Z. Wang, J. Bao, L. Li, Y. Zhao, and J. Li, co-auther
-*	[Evaluating viral interference between Influenza virus and Newcastle disease virus using real-time reverse transcription-polymerase chain reaction in chicken eggs](http://www.ncbi.nlm.nih.gov/pubmed/22748105). Virol J, 2012. 9: p. 128.10.1186/1743-422X-9-128, Ge, S., D. Zheng, Y. Zhao, H. Liu, W. Liu, Q. Sun, J. Li, S. Yu, Y. Zuo, X. Han, L. Li, Y. Lv, Y. Wang, X. Liu, and Z. Wang, co-auther
-*	[Multiplex RT-PCR for rapid detection and differentiation of class I and class II Newcastle disease viruses](http://www.ncbi.nlm.nih.gov/pubmed/21034772). J Virol Methods, 2011. 171(1): p. 149-55.S0166-0934(10)00388-5 [pii]
-*1016/j.jviromet.2010.10.017, Liu, H., Y. Zhao, D. Zheng, Y. Lv, W. Zhang, T. Xu, J. Li, and Z. Wang, co-auther
-*	[Rapid detection of peste des petits ruminants virus by a reverse transcription loop-mediated isothermal amplification assay](http://www.ncbi.nlm.nih.gov/pubmed/20813134). J Virol Methods, 2010. 170(1-2): p. 37-41.S0166-0934(10)00308-3 [pii]
-*1016/j.jviromet.2010.08.016, Li, L., J. Bao, X. Wu, Z. Wang, J. Wang, M. Gong, C. Liu, and J. Li, co-auther
-*	[Peste des petits ruminants virus in Tibet, China](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19193278). Emerg Infect Dis, 2009. 15(2): p. 299-301Wang, Z., J. Bao, X. Wu, Y. Liu, L. Li, C. Liu, L. Suo, Z. Xie, W. Zhao, W. Zhang, N. Yang, J. Li, S. Wang, and J. Wang, co-auther
-*	[Molecular characterization and phylogenetic analysis of new Newcastle disease virus isolates from the mainland of China](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18405927). Res Vet Sci, 2008: p. 612-16.S0034-5288(08)00025-8 [pii]
-*1016/j.rvsc.2008.02.013, H.L., L., W. Z.L., W. Y.G., S. C.Y., Z. D.X., X. T.G., and L. J.M.,co-auther
-*	[Development of one-step real-time RT-PCR assay for detection and quantitation of peste des petits ruminants virus](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18243345). J Virol Methods, 2008. 148(1-2): p. 232-6.S0166-0934(07)00466-1 [pii]
-*1016/j.jviromet.2007.12.003, Bao, J., L. Li, Z. Wang, T. Barrett, L. Suo, W. Zhao, Y. Liu, C. Liu, and J. Li,co-auther
-*	[The panorama of the diversity of H5 subtype influenza viruses](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16924425). Virus Genes, 2007. 34(3): p. 283-7.10.1007/s11262-006-0018-3, Ma, H.C., J.M. Chen, J.W. Chen, Y.X. Sun, J.M. Li, and Z.L. Wang, co-auther
-*	[Establishment of a TaqMan-based real-time PCR and its application to sheep PRNP genotyping](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17614981). Anim Genet, 2007. 38(4): p. 427.AGE1633 [pii]
-*1111/j.1365-2052.2007.01633.x, Lan, Z., Z. Wang, L. Li, J. Li, and Y. Liu, co-auther
-*	[A preliminary panorama of the diversity of N1 subtype influenza viruses](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17019634). Virus Genes, 2007. 35(1): p. 33-40.10.1007/s11262-006-0025-4, Chen, J.M., H.C. Ma, J.W. Chen, Y.X. Sun, J.M. Li, and Z.L. Wang, co-auther
+*	[Peste des petits ruminants in China since its first outbreak in 2007: A 10-year review](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1865-1682)，Transboundary and Emerging Diseases，*accepted(TBED-RW-451-17)*, 2nd author
+*	[Diagnosis of Peste des Petits Ruminants in Wild and Domestic Animals in Xinjiang, China, 2013-2016](http://www.ncbi.nlm.nih.gov/pubmed/28101989). Transbound Emerg Dis, 2017. http://www.doi.org/10.1111/tbed.12600, Li, J., L. Li, X. Wu, F. Liu, Y. Zou, Q. Wang, C. Liu, J. Bao, W. Wang, W. Ma, H. Lin, J. Huang, X. Zheng, and Z. Wang, **1st author**
+*	[Evolutionary dynamics of recent peste des petits ruminants virus epidemic in China during 2013-2014](https://www.ncbi.nlm.nih.gov/pubmed/28734191). Virology, 2017. 510: p. 156-164. http://www.doi.org/10.1016/j.virol.2017.07.018, Bao, J., Q. Wang, L. Li, C. Liu, Z. Zhang, J. Li, S. Wang, X. Wu, and Z. Wang, co-author
+*	[Peste des Petits Ruminants Viruses Re-emerging in China, 2013-2014](http://www.ncbi.nlm.nih.gov/pubmed/25620455). Transbound Emerg Dis, 2016. 63(5): p. e441-6. http://www.doi.org/10.1111/tbed.12308, Wu, X., L. Li, J. Li, C. Liu, Q. Wang, J.Y. Bao, Y. Zou, W. Ren, H. Wang, Y. Zhang, Y. Lv, F. Liu, S. Wang, H. Ma, and Z. Wang, **1st author**
+*	[Allelic variants of PRNP in 16 Chinese local sheep breeds](http://www.ncbi.nlm.nih.gov/pubmed/24643335). Arch Virol, 2014. http://www.doi.org/10.1007/s00705-014-2048-9, Lan, Z., J. Li, C. Sun, Y. Liu, Y. Zhao, T. Chi, X. Yu, F. Song, and Z. Wang, 2nd author
+*	[Virus excretion and antibody dynamics in goats inoculated with a field isolate of peste des petits ruminants virus](http://www.ncbi.nlm.nih.gov/pubmed/24589103). Transbound Emerg Dis, 2013. 60 Suppl 2: p. 63-8. http://www.doi.org/10.1111/tbed.12136, Liu, W., X. Wu, Z. Wang, J. Bao, L. Li, Y. Zhao, and J. Li
+*	[Evaluating viral interference between Influenza virus and Newcastle disease virus using real-time reverse transcription-polymerase chain reaction in chicken eggs](http://www.ncbi.nlm.nih.gov/pubmed/22748105). Virol J, 2012. 9: p. 128. http://www.doi.org/10.1186/1743-422X-9-128, Ge, S., D. Zheng, Y. Zhao, H. Liu, W. Liu, Q. Sun, J. Li, S. Yu, Y. Zuo, X. Han, L. Li, Y. Lv, Y. Wang, X. Liu, and Z. Wang, co-author
+*	[Multiplex RT-PCR for rapid detection and differentiation of class I and class II Newcastle disease viruses](http://www.ncbi.nlm.nih.gov/pubmed/21034772). J Virol Methods, 2011. 171(1): p. 149-55. http://www.doi.org/S0166-0934(10)00388-5 [pii]
+*1016/j.jviromet.2010.10.017, Liu, H., Y. Zhao, D. Zheng, Y. Lv, W. Zhang, T. Xu, J. Li, and Z. Wang, co-author
+*	[Rapid detection of peste des petits ruminants virus by a reverse transcription loop-mediated isothermal amplification assay](http://www.ncbi.nlm.nih.gov/pubmed/20813134). J Virol Methods, 2010. 170(1-2): p. 37-41. http://www.doi.org/S0166-0934(10)00308-3 [pii]
+*1016/j.jviromet.2010.08.016, Li, L., J. Bao, X. Wu, Z. Wang, J. Wang, M. Gong, C. Liu, and J. Li, co-author
+*	[Peste des petits ruminants virus in Tibet, China](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19193278). Emerg Infect Dis, 2009. 15(2): p. 299-301. Wang, Z., J. Bao, X. Wu, Y. Liu, L. Li, C. Liu, L. Suo, Z. Xie, W. Zhao, W. Zhang, N. Yang, J. Li, S. Wang, and J. Wang, co-author
+*	[Molecular characterization and phylogenetic analysis of new Newcastle disease virus isolates from the mainland of China](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18405927). Res Vet Sci, 2008: p. 612-16. http://www.doi.org/S0034-5288(08)00025-8 [pii]
+*1016/j.rvsc.2008.02.013, H.L., L., W. Z.L., W. Y.G., S. C.Y., Z. D.X., X. T.G., and L. J.M., co-author
+*	[Development of one-step real-time RT-PCR assay for detection and quantitation of peste des petits ruminants virus](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18243345). J Virol Methods, 2008. 148(1-2): p. 232-6. http://www.doi.org/S0166-0934(07)00466-1 [pii]
+*1016/j.jviromet.2007.12.003, Bao, J., L. Li, Z. Wang, T. Barrett, L. Suo, W. Zhao, Y. Liu, C. Liu, and J. Li, co-author
+*	[The panorama of the diversity of H5 subtype influenza viruses](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16924425). Virus Genes, 2007. 34(3): p. 283-7. http://www.doi.org/10.1007/s11262-006-0018-3, Ma, H.C., J.M. Chen, J.W. Chen, Y.X. Sun, J.M. Li, and Z.L. Wang, co-author
+*	[Establishment of a TaqMan-based real-time PCR and its application to sheep PRNP genotyping](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17614981). Anim Genet, 2007. 38(4): p. 427. http://www.doi.org/AGE1633 [pii]
+*1111/j.1365-2052.2007.01633.x, Lan, Z., Z. Wang, L. Li, J. Li, and Y. Liu, co-author
+*	[A preliminary panorama of the diversity of N1 subtype influenza viruses](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17019634). Virus Genes, 2007. 35(1): p. 33-40. http://www.doi.org/10.1007/s11262-006-0025-4, Chen, J.M., H.C. Ma, J.W. Chen, Y.X. Sun, J.M. Li, and Z.L. Wang, co-author
