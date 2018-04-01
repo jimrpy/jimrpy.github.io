@@ -1,5 +1,5 @@
                        
-| [resume 个人简历✨](https://jimrpy.github.io/resume/) |  [Research Project 在研项目🔬]()  | ... | [CAHEC 动卫中心🕸](http://www.cahec.cn) |
+| [resume 个人简历✨](https://jimrpy.github.io/resume/) |  [Research Project 在研项目🔬](https://trello.com/b/dRNWRtqn/任务进度表)  | ... | [CAHEC 动卫中心🕸](http://www.cahec.cn) |
 |:-:|---|---|:-:|
 | | | | |
 
@@ -20,6 +20,6 @@
   
   - [Sampling tool box 抽样工具箱]()
 
-## [R]()
+## [DataScience](https://jimrpy.github.io/R)
 
-## [ArcGIS]()
+## [GIS]()
