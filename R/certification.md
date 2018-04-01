@@ -3,9 +3,11 @@
 
 ### Career Track Accomplishment Certification
 
-- [Data Analyst with R, 16 Courses, 64 hours](https://www.datacamp.com/statement-of-accomplishment/track/044582338c56462c078d8c67fcabb50a8875c9df) | [Courses list](https://www.datacamp.com/tracks/data-analyst-with-r)
+- ![](https://assets.datacamp.com/production/tracks/11/badges/original/R-career-track-data-scientist_2x-final.png)[Data Analyst with R, 16 Courses, 64 hours](https://www.datacamp.com/statement-of-accomplishment/track/044582338c56462c078d8c67fcabb50a8875c9df) | [Courses list](https://www.datacamp.com/tracks/data-analyst-with-r)
 
-- [R Programmer, 10 Courses, 40 hours](https://www.datacamp.com/statement-of-accomplishment/track/e86fdd216d6c9b57acfb599200650f97b3075c96) | [Courses list](https://www.datacamp.com/tracks/r-programmer)
+- ![](https://assets.datacamp.com/production/tracks/6/badges/thumb/R_Programming_10x.png) [R Programmer, 10 Courses, 40 hours](https://www.datacamp.com/statement-of-accomplishment/track/e86fdd216d6c9b57acfb599200650f97b3075c96) | [Courses list](https://www.datacamp.com/tracks/r-programmer)
+
+- [Data manipulation, 4 Courses, 16 hours](https://www.datacamp.com/statement-of-accomplishment/track/5bc88e75196a90b0da7c4efef659496edfe606c1) | [Courses list](https://www.datacamp.com/tracks/data-manipulation-with-r)
 
 ### Skill Track Accomplishment Certification
 
