@@ -18,7 +18,6 @@
 
 - [Data Manipulation with R, 4 Courses, 16 hours](https://www.datacamp.com/statement-of-accomplishment/track/5bc88e75196a90b0da7c4efef659496edfe606c1) | [Courses list](https://www.datacamp.com/tracks/data-manipulation-with-r)
 
-- [Statistics with R, 5 Courses, 16 hours](https://www.datacamp.com/statement-of-accomplishment/track/c9704db33526b96a07f2093d3a73e84eb65e9a5f) | [Courses list](https://www.datacamp.com/tracks/statistics-with-r)
 
 - [Intro to Statistics, 5 Courses, 16 hours](https://www.datacamp.com/statement-of-accomplishment/track/c9704db33526b96a07f2093d3a73e84eb65e9a5f) | [Courses list](https://www.datacamp.com/tracks/learn-statistics-with-r)
 
