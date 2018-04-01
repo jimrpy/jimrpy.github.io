@@ -20,6 +20,6 @@
   
   - [Sampling tool box 抽样工具箱]()
 
-## [DataScience](https://jimrpy.github.io/R)
+## [DataScience 数据科学](https://jimrpy.github.io/R)
 
 ## [GIS]()
