@@ -19,6 +19,8 @@
   - [SIR model SIR模型]()
   
   - [Sampling tool box 抽样工具箱]()
+  
+  - [African swine fever](https://jimrpy.github.io/epidemiology/asf-outbreaks.html)
 
 ## [DataScience 数据科学](https://jimrpy.github.io/R)
 
