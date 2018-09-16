@@ -14,7 +14,7 @@
  | [ H7 Avian Flue H7亚型禽流感]()  | [Schmallenberg Virus施马伦贝格病]() | [Others 其他]()  | [Others 其他]() |
 
 
-## [Epidemiology 流行病学]()
+## [Epidemiology 流行病学](https://jimrpy.github.io/epidemiology/)
 
   - [SIR model SIR模型]()
   
