@@ -75,15 +75,7 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
 
 ## Key Skills 主要技能
 
-* Data Analysis 数据分析
-
-  * R 
-    
-  * Arcgis
-    
-  * Python 
-    
-  * Tableau
+* Data Analysis 数据分析，R， Python， Tableau， Arcgis， Qgis
  
 * Biosafety Lab 高等级生物安全实验室
   
