@@ -12,9 +12,9 @@ China Animal Health and Epidemiology Center  中国动物卫生与流行病学�
 
 ## Career Objective 职业目标
 
-Based on the data collection, data mining, risk modling and other modern computer techniques, conduct surveillance, risk analysis and integrated prevention and control technology research on transboundary animal diseases, especially on foreign animal diseases
+Based on the data collection, data mining, risk modling and other modern computer techniques, conduct surveillance, risk analysis and integrated prevention and control technology research on transboundary animal diseases, especially on foreign animal diseases, such as African swine fever, peste des petitis ruminants, etc.
 
-利用数据获取、数据挖掘、风险建模等手段，开展跨境动物疫病，特别是外来型跨境动物疫病监测、风险分析与综合防控技术研究
+利用数据获取、数据挖掘、风险建模等手段，开展跨境动物疫病，特别是非洲猪瘟、小反刍兽疫等外来型跨境动物疫病监测、风险分析与综合防控技术研究
 
 ## Research Project 在研项目
 
@@ -22,7 +22,7 @@ SubProject of National Project for Prevention and control of Transboundary Anima
 
 ## Education 教育背景
 
-* 2017.10 - 2018.01  EpiCenter,Massey University  梅西大学兽医学院流行病学中心
+* 2017.10 - 2018.01  EpiCenter,Massey University  梅西大学兽医学院流行病学中心访问学者
 
 * 2001.09 - 2004.07  Master. Animal Science college, Fujian Forest and Agriculture University 福建农林大学动物科技学院硕士研究生
 
@@ -43,10 +43,14 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
 * For H7N9 infuluenza, H7N9流感方面：
 
   * [关于加强H7N9监测检测的农业部公告（2516号公告）](http://www.moa.gov.cn/zwllm/tzgg/gg/201704/t20170421_5579066.htm)
+  
+  * [全国家禽H7N9流感防治指导意见（2018—2020年）农医发〔2018〕10号](http://www.moa.gov.cn/govpublic/SYJ/201802/P020180227596322501098.ceb)
 
 * For peste des petits ruminants, 小反刍兽疫方面
 
   * [全国小反刍兽疫消灭计划（2016-2020年）农医发〔2015〕34号)](http://www.moa.gov.cn/sjzz/syj/dwybfk/201512/P020151225567893393934.ceb)
+  
+  * [关于开展小反刍兽疫状况评估工作的通知(农办医〔2016〕49号)（）
 
 * For African swine fever, 非洲猪瘟方面
 
@@ -55,6 +59,17 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
   * [非洲猪瘟防控应急预案(农医发〔2017〕28号)](http://www.moa.gov.cn/zwllm/tzgg/tz/201709/t20170926_5828103.htm)
   
   * [关于加强非洲猪瘟防范工作的紧急通知(农办医〔2017〕14号)](http://www.moa.gov.cn/govpublic/SYJ/201704/t20170412_5557878.htm)
+  
+  * [关于加强猪用饲料监管工作的公告（农业农村部公告64号）](http://www.moa.gov.cn/govpublic/SYJ/201809/P020180913631820217956.ceb)
+  
+  * [非洲猪瘟紧急排查工作方案、可疑疫情应急处置指南(农明字〔2018〕22号)]（）
+  
+  * [关于开展非洲猪瘟专项监测的通知(农办医〔2018〕43号)]（）
+  
+  * [关于做好从辽宁省输入的生猪及猪肉产品的排查和处置工作的通知(农医防便函〔2018〕589号)]（）
+  
+  * [关于做好从疫区省份输入的生猪及猪肉产品的排查和处置工作的通知(农医防便函〔2018〕674号)]（）
+  
 
 * For BSE，疯牛病方面，
   * [国家疯牛病风险防范指导意见(农医发〔2017〕21号)](http://www.moa.gov.cn/zwllm/ghjh/201706/t20170616_5691498.htm)
@@ -118,9 +133,9 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
 * [重大动物疫病监测指南](https://book.douban.com/subject/3247861/) ，陈继明 主编，中国农业科学技术出版社，2008，ISBN 9787802336506，Co-Author 参编
 
 ### papers
-
-*	[Peste des petits ruminants in China since its first outbreak in 2007: A 10-year review](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1865-1682)，Transboundary and Emerging Diseases，*accepted(TBED-RW-451-17)*, 2nd author
-*	[Diagnosis of Peste des Petits Ruminants in Wild and Domestic Animals in Xinjiang, China, 2013-2016](http://www.ncbi.nlm.nih.gov/pubmed/28101989). Transbound Emerg Dis, 2017. http://www.doi.org/10.1111/tbed.12600, Li, J., L. Li, X. Wu, F. Liu, Y. Zou, Q. Wang, C. Liu, J. Bao, W. Wang, W. Ma, H. Lin, J. Huang, X. Zheng, and Z. Wang, **1st author**
+* [Molecular Characterization of African Swine Fever Virus, China, 2018](https://doi.org/10.3201/eid2411.181274)，Emerging Infectious Diseases, Ge S, Li J, Fan X, Liu F, Li L, Wang Q, et al.  **1st author**
+*	[Peste des petits ruminants in China since its first outbreak in 2007: A 10-year review]( https://doi.org/10.1111/tbed.12808)，Transboundary and Emerging Diseases，2018;65:638–648.， Liu F, Li J, Li L, Liu Y, Wu X, Wang Z., 2nd author
+*	[Diagnosis of Peste des Petits Ruminants in Wild and Domestic Animals in Xinjiang, China, 2013-2016](http://www.doi.org/10.1111/tbed.12600). Transbound Emerg Dis, 2017. 64: e43-e47., Li, J., L. Li, X. Wu, F. Liu, Y. Zou, Q. Wang, C. Liu, J. Bao, W. Wang, W. Ma, H. Lin, J. Huang, X. Zheng, and Z. Wang, **1st author**
 *	[Evolutionary dynamics of recent peste des petits ruminants virus epidemic in China during 2013-2014](https://www.ncbi.nlm.nih.gov/pubmed/28734191). Virology, 2017. 510: p. 156-164. http://www.doi.org/10.1016/j.virol.2017.07.018, Bao, J., Q. Wang, L. Li, C. Liu, Z. Zhang, J. Li, S. Wang, X. Wu, and Z. Wang, co-author
 *	[Peste des Petits Ruminants Viruses Re-emerging in China, 2013-2014](http://www.ncbi.nlm.nih.gov/pubmed/25620455). Transbound Emerg Dis, 2016. 63(5): p. e441-6. http://www.doi.org/10.1111/tbed.12308, Wu, X., L. Li, J. Li, C. Liu, Q. Wang, J.Y. Bao, Y. Zou, W. Ren, H. Wang, Y. Zhang, Y. Lv, F. Liu, S. Wang, H. Ma, and Z. Wang, **1st author**
 *	[Allelic variants of PRNP in 16 Chinese local sheep breeds](http://www.ncbi.nlm.nih.gov/pubmed/24643335). Arch Virol, 2014. http://www.doi.org/10.1007/s00705-014-2048-9, Lan, Z., J. Li, C. Sun, Y. Liu, Y. Zhao, T. Chi, X. Yu, F. Song, and Z. Wang, 2nd author
