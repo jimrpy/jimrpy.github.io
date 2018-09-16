@@ -50,7 +50,7 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
 
   * [全国小反刍兽疫消灭计划（2016-2020年）农医发〔2015〕34号)](http://www.moa.gov.cn/sjzz/syj/dwybfk/201512/P020151225567893393934.ceb)
   
-  * [关于开展小反刍兽疫状况评估工作的通知(农办医〔2016〕49号)（）
+  * 关于开展小反刍兽疫状况评估工作的通知(农办医〔2016〕49号)
 
 * For African swine fever, 非洲猪瘟方面
 
@@ -62,14 +62,13 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
   
   * [关于加强猪用饲料监管工作的公告（农业农村部公告64号）](http://www.moa.gov.cn/govpublic/SYJ/201809/P020180913631820217956.ceb)
   
-  * [非洲猪瘟紧急排查工作方案、可疑疫情应急处置指南(农明字〔2018〕22号)]（）
+  * 非洲猪瘟紧急排查工作方案、可疑疫情应急处置指南(农明字〔2018〕22号)
   
-  * [关于开展非洲猪瘟专项监测的通知(农办医〔2018〕43号)]（）
+  * 关于开展非洲猪瘟专项监测的通知(农办医〔2018〕43号)
   
-  * [关于做好从辽宁省输入的生猪及猪肉产品的排查和处置工作的通知(农医防便函〔2018〕589号)]（）
+  * 关于做好从辽宁省输入的生猪及猪肉产品的排查和处置工作的通知(农医防便函〔2018〕589号)
   
-  * [关于做好从疫区省份输入的生猪及猪肉产品的排查和处置工作的通知(农医防便函〔2018〕674号)]（）
-  
+  * 关于做好从疫区省份输入的生猪及猪肉产品的排查和处置工作的通知(农医防便函〔2018〕674号) 
 
 * For BSE，疯牛病方面，
   * [国家疯牛病风险防范指导意见(农医发〔2017〕21号)](http://www.moa.gov.cn/zwllm/ghjh/201706/t20170616_5691498.htm)
@@ -86,13 +85,10 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
     
   * Tableau
  
-* Biosafety 生物安全
+* Biosafety Lab 高等级生物安全实验室
   
-  SOP, systemic controll
-
 * Chinese traditional veterinary 中草药
 
-  Chinese medicine herbs
 
 ## Publications 论文发表
 
