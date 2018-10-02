@@ -138,4 +138,3 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
 15.	[Establishment of a TaqMan-based real-time PCR and its application to sheep PRNP genotyping](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17614981). Anim Genet, 2007. 38(4): p. 427. http://www.doi.org/AGE1633 [pii]1111/j.1365-2052.2007.01633.x, Lan, Z., Z. Wang, L. Li, J. Li, and Y. Liu, co-author
 16.	[A preliminary panorama of the diversity of N1 subtype influenza viruses](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17019634). Virus Genes, 2007. 35(1): p. 33-40. http://www.doi.org/10.1007/s11262-006-0025-4, Chen, J.M., H.C. Ma, J.W. Chen, Y.X. Sun, J.M. Li, and Z.L. Wang, co-author
 
-ps: the doi website maybe not work
