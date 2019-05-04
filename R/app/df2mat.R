@@ -1,4 +1,4 @@
-df2max <- function(df, var.col, var.col, var.value){
+df2max <- function(df, var.row, var.col, var.value){
   ## This function is for generating matrix from data.frame by given row and col
   ## Author: LI Jinming
   
@@ -8,8 +8,8 @@ df2max <- function(df, var.col, var.col, var.value){
   library(rlang)
   
   ## capture user-supplied expressions
+  var.row <- enquo(var.row)
   var.col <- enquo(var.col)
-  var.row <- enquo(var.col)
   var.value <- enquo(var.value)
   ## formula, y ~ x, column ~ row
   formula = as.formula(paste(quo_text(var.col), "~ ", quo_text(var.row)))
