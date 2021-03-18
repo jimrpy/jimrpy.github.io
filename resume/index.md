@@ -2,7 +2,7 @@
 ---
 # RESUME 个人简历
 
-Jinming LI 李金明    Associate Pro 副研究员  Email:lijinming#cahec.cn jimrpy#gmail.com 
+Jinming LI 李金明   Researcher 研究员  Email:lijinming#cahec.cn jimrpy#gmail.com 
 
 Core member of National Innovation Teams in Selected Areas of Priority - Major Foreign Animal Diseases Innovative Research Team 国家重点领域创新团队 - 重大外来动物疫病研究创新团队核心成员
 
