@@ -22,7 +22,9 @@ SubProject of National Project for Prevention and control of Transboundary Anima
 
 ## Education 教育背景
 
-* 2017.10 - 2018.01  EpiCenter,Massey University  梅西大学兽医学院流行病学中心访问学者
+* 2018.11 - 2019.02  FLI  德国FLI访问学者
+
+* 2017.10 - 2018.01  EpiCenter,Massey University  新西兰梅西大学兽医学院流行病学中心访问学者
 
 * 2001.09 - 2004.07  Master. Animal Science college, Fujian Forest and Agriculture University 福建农林大学动物科技学院硕士研究生
 
@@ -75,7 +77,7 @@ As one of the main drafters, submitted MOA lots of policy documents on the preve
 
 ## Key Skills 主要技能
 
-* Data Analysis 数据分析，R， Python， Tableau， Arcgis， Qgis
+* Data Analysis 数据分析。熟练应用R， Python， Tableau， Arcgis， Qgis
  
 * Biosafety Lab 高等级生物安全实验室
   
